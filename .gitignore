@@ -1,0 +1,23 @@
+
+frontend/node_modules
+
+backend/.env
+backend/__pycache__
+backend/models/__pycache__
+backend/routes/__pycache__
+
+backend/utils/.env
+
+backend/models/.DS_Store
+
+.DS_Store
+frontend/.DS_Store
+
+
+backend/data/Breast Cancer/Model
+backend/data/kidney_disease/Model
+backend/data/eyedisease/eyedisease.h5
+backend/data/Lymphoma/Lymphoma classification1.h5
+backend/data/pneumonia/model-Pneumonia Detection-88.04.h5
+
+backend/utils/__pycache__/ai_utils.cpython-39.pyc
